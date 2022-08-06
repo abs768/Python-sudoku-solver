@@ -20,7 +20,5 @@ using the concept of backtracking in data structures we can minimize the steps r
 
 ![Screenshot (127)](https://user-images.githubusercontent.com/91774301/182793074-345950ca-f9f7-4a77-bae4-d2a318e3b509.png)
 
-#Implemented sample:
-
-https://user-images.githubusercontent.com/91774301/183237668-bdc88626-ef01-4e45-ab71-13d423d14c30.mp4
+#Implemented sample: https://user-images.githubusercontent.com/91774301/183237668-bdc88626-ef01-4e45-ab71-13d423d14c30.mp4
 
