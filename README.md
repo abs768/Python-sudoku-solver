@@ -1,24 +1,44 @@
-# Python-sudoku-solver
-using the concept of backtracking in data structures we can minimize the steps required to solve the sudoku game by implementing it in real life.
 
-#Algorithm Flowchart:
+# Python-sudoku-solver
+
+Using the concept of backtracking in data structures we can minimize the steps required to solve the sudoku game by implementing it in real life.
+
+
+## 🛠 Skills
+Python-pygame
+
+
+
+
+
+## Sudoku
+
+![Logo](https://upload.wikimedia.org/wikipedia/commons/1/12/Sudoku_Puzzle_by_L2G-20050714_solution_standardized_layout.svg)
+
+Sudoku is a logic-based puzzle. It is a type of constraint satisfaction problem, where the solver is given a finite number of objects (the numerals 1-9) and a set of conditions stating how the objects must be placed in relation to one another.
+
+## Algorithm
+
 ![Screenshot (121)](https://user-images.githubusercontent.com/91774301/182792683-60217064-6ff4-43f9-8734-8e312e052e15.png)
 
-#part1.py:
+## Implementation
 
-![Screenshot (122)](https://user-images.githubusercontent.com/91774301/182792794-733f1261-0a1f-4ad6-bb4b-150261636a5b.png)
+Running And Testing:
 
-#part2.py:
+https://user-images.githubusercontent.com/91774301/183237668-bdc88626-ef01-4e45-ab71-13d423d14c30.mp4
 
-![Screenshot (125)](https://user-images.githubusercontent.com/91774301/182792854-79b00dd0-4649-4efe-b837-56a629e3051a.png)
 
-#solver.py:
 
-![Screenshot (126)](https://user-images.githubusercontent.com/91774301/182792974-aebfccaf-92d1-4b44-b149-c5d31e6740dd.png)
 
-#gu.py:
 
-![Screenshot (127)](https://user-images.githubusercontent.com/91774301/182793074-345950ca-f9f7-4a77-bae4-d2a318e3b509.png)
 
-#Implemented sample: https://user-images.githubusercontent.com/91774301/183237668-bdc88626-ef01-4e45-ab71-13d423d14c30.mp4
+
+## Modules Used 
+
+-pygame - Pygame is a cross-platform set of Python modules which is used to create video games. It consists of computer graphics and sound libraries designed to be used with the Python programming language. Pygame was officially written by Pete Shinners to replace PySDL.
+## Reference
+
+https://www.geeksforgeeks.org/backtracking-algorithms/
+
+https://www.geeksforgeeks.org/introduction-to-pygame/
 
